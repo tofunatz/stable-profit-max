@@ -1,1 +1,0 @@
-# Hybrid Strategy Implementation (SIM)

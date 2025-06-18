@@ -1,1 +1,0 @@
-# BBW Threshold Guard Logic (SIM)
