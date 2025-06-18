@@ -1,1 +1,0 @@
-# Signal quality + Entry confidence calculator
