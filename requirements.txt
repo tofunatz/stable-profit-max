@@ -1,6 +1,0 @@
-pandas
-requests
-discord_webhook
-gspread
-oauth2client
-schedule
